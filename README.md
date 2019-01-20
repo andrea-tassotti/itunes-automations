@@ -1,4 +1,4 @@
-# itunes-automations
+# iTunes Automations Library
 AppleScript library for iTunes 
 
 ## Content
