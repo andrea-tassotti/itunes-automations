@@ -3,8 +3,9 @@ AppleScript library for iTunes
 
 ## Content
 
-- Stop play with auto-fade out
+- Stop play with auto fade-out
+- Start play with auto fade-in of current playlist (from the begin or from selected track)
 
 ## Installation
-Put script in /Library/iTunes/Scripts.
-
+Open with AppleScript Studio, save as script,
+then put script in /Library/iTunes/Scripts.
