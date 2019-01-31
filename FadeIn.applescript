@@ -1,3 +1,8 @@
+-- AppleScript for start play with Fade In effect
+--
+-- @author Andrea Tassotti
+-- @date 2019
+--
 tell application "iTunes"
 	-- insert actions here
 	set step to 5
